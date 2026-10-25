@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mathilde Ourceau - Design \u0026 Engineering",
+  "description": "Interactive digital portfolio in modern React for Mathilde Ourceau, showcasing expert Web Engineering and UI/UX Design solutions, including an AI project assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
